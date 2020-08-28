@@ -1,6 +1,6 @@
 # Google-Playstore-Joshua-Ver1
 Analyse and Visualise Google Play Store 
-Google Playstore Joshua Ver1 is a project where I analyze and visualize data taken from the Indonesian Google Playstore. 
+Google Playstore Joshua Ver1 is a project where I analyze and visualize data taken from theGoogle Playstore. 
 
 ![Alt Text](https://media.giphy.com/media/IguL9zRYV20X1QeKuV/giphy.gif)
 <img src ="images/distribution_all.png" width="400"> <br/>
